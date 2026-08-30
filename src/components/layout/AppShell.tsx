@@ -150,7 +150,7 @@ export function AppShell({ children }: { children: React.ReactNode }) {
             </div>
             <div className="mt-1 flex items-center justify-between">
               <span>Sample rate</span>
-              <span className="tabular text-fg">16 kHz</span>
+              <span className="tabular text-fg">50 kHz</span>
             </div>
           </div>
         </div>
