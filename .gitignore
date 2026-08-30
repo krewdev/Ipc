@@ -3,3 +3,14 @@ node_modules/
 .github_repo
 .env
 .env.*
+.grok/
+.vercel/
+dist/
+.output/
+.nitro/
+.tanstack/
+*.local
+.DS_Store
+artifacts/.grok/
+artifacts/imagine_images/
+artifacts/ipc-dashboard-snapshot.tar.gz
